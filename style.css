@@ -317,3 +317,72 @@ b {
 
 /* Footer */
 
+.container-footer {
+    width: 100%;
+    padding: 40px 0;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.container-footer footer {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.container-footer footer .logo-footer {
+    text-align: center;
+}
+
+.container-footer footer .logo-footer img {
+    width: 100px;
+}
+
+.container-footer footer .redes-footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.container-footer footer .redes-footer .icon-redes-footer {
+    font-size: 20px;
+    margin: 20px;
+    background: #efefef;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    color: #a2a2a2;
+}
+
+footer .redes-footer .fa-facebook:hover {
+    background-color: grey;
+    color: white;
+}
+
+footer .redes-footer .fa-instagram:hover {
+    background-color: grey;
+    color: white;
+}
+
+footer .redes-footer .fa-twitter:hover {
+    background-color: grey;
+    color: white;
+}
+
+.container-footer footer hr {
+    margin: 20px;
+    border: none;
+    height: 2px;
+    color: black;
+}
+
+.container-footer h4 {
+    text-align: center;
+    margin-top: 20px;
+    color:black;
+}
+
+
+
